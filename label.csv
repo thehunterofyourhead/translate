@@ -1,0 +1,945 @@
+Class ID,Preferred Label,Tradução
+http://purl.obolibrary.org/obo/SYMP_0000149,tremores repentinos,tremores repentinos
+http://purl.obolibrary.org/obo/SYMP_0000259,tosse seca,tosse seca
+http://purl.obolibrary.org/obo/SYMP_0000729,consolidação pulmonar,junta pulmonar
+http://purl.obolibrary.org/obo/SYMP_0000746,enantema,enantema
+http://purl.obolibrary.org/obo/SYMP_0000412,ansiedade,ansiedade
+http://purl.obolibrary.org/obo/SYMP_0000498,rigidez abdominal,rigidez abdominal
+http://purl.obolibrary.org/obo/SYMP_0000021,delirium,delírio
+http://purl.obolibrary.org/obo/SYMP_0000838,dor exarcebada,dor exarcebada
+http://purl.obolibrary.org/obo/SYMP_0019176,Mal-estar,Mal-estar
+http://purl.obolibrary.org/obo/SYMP_0000752,lesão herpética em lábio superior,lesão herpética em lábio superior
+http://purl.obolibrary.org/obo/SYMP_0000172,vesículas em mamas,vesículas em mamas
+http://purl.obolibrary.org/obo/SYMP_0000155,melena,melena
+http://purl.obolibrary.org/obo/SYMP_0000282,pupilas dilatadas,pupilas dilatadas
+http://purl.obolibrary.org/obo/SYMP_0000025,tosse seca,tosse seca
+http://purl.obolibrary.org/obo/SYMP_0000008,cegueira,cegueira
+http://purl.obolibrary.org/obo/SYMP_0000719,esquecimento,esquecimento
+http://purl.obolibrary.org/obo/SYMP_0000829,dor cervical,dor cervical
+http://purl.obolibrary.org/obo/SYMP_0000402,caquexia,caquexia
+http://purl.obolibrary.org/obo/SYMP_0000512,incontinência de estresse,incontinência de estresse
+http://purl.obolibrary.org/obo/SYMP_0000622,linfadenite mesentérica aguda,linfadenite mesentérica aguda
+http://purl.obolibrary.org/obo/SYMP_0000605,coma,coma
+http://purl.obolibrary.org/obo/SYMP_0019167,pústula,pústula
+http://purl.obolibrary.org/obo/SYMP_0000599,respiração de cheyne-stokes,respiração de cheyne-stokes
+http://purl.obolibrary.org/obo/SYMP_0000489,sons abdominais anormais,filhos abdominais anormais
+http://purl.obolibrary.org/obo/SYMP_0000365,abcesso prostático,abcesso prostático
+http://purl.obolibrary.org/obo/SYMP_0000272,convulsão mioclônica,convulsão mioclônica
+http://purl.obolibrary.org/obo/SYMP_0000382,marcha atáxica,marcha atáxica
+http://purl.obolibrary.org/obo/SYMP_0000255,diminuição da motilidade gastrointestinal,diminuição da motilidade gastrointestinal
+http://purl.obolibrary.org/obo/SYMP_0000742,sangramento gengival,sangramento gengival
+http://purl.obolibrary.org/obo/SYMP_0000852,anuria,anuria
+http://purl.obolibrary.org/obo/SYMP_0000497,rigidez periumbilical,rigidez periumbilical
+http://purl.obolibrary.org/obo/SYMP_0000180,sintomas hepáticos,sintomas hepáticos
+http://purl.obolibrary.org/obo/SYMP_0000163,visicula dérmica ulcerativa,visicula dérmica ulcerativa
+http://purl.obolibrary.org/obo/SYMP_0000016,confusão,confuso
+http://purl.obolibrary.org/obo/SYMP_0000503,Fracasso em prosperar,Fracasso em Prosperar
+http://purl.obolibrary.org/obo/SYMP_0000699,fraqueza do músculo deltoide,fraqueza do músculo deltoide
+http://purl.obolibrary.org/obo/SYMP_0000479,marcha anormal,marcha anormal
+http://purl.obolibrary.org/obo/SYMP_0000589,diminuição do jato urinário,diminuição do jato urinário
+http://purl.obolibrary.org/obo/SYMP_0019148,sepse,sepse
+http://purl.obolibrary.org/obo/SYMP_0019163,sintomas oculares,sintomas oculares
+http://purl.obolibrary.org/obo/SYMP_0019180,constipação,constipação
+http://purl.obolibrary.org/obo/SYMP_0000356,flebite,flebite
+http://purl.obolibrary.org/obo/SYMP_0000373,salivação,salivação
+http://purl.obolibrary.org/obo/SYMP_0000136,úlcera em pele,úlcera em pele
+http://purl.obolibrary.org/obo/SYMP_0000153,vasculite,vasculite
+http://purl.obolibrary.org/obo/SYMP_0000263,epididimite,epididimito
+http://purl.obolibrary.org/obo/SYMP_0000246,apetite aumentado,apetite aumentado
+http://purl.obolibrary.org/obo/SYMP_0000006,lombalgia,lombalgia
+http://purl.obolibrary.org/obo/SYMP_0000750,hemorragia em mucosa,hemorragia na mucosa
+http://purl.obolibrary.org/obo/SYMP_0000733,fraqueza do músculo esternocleidomastóideo,fraqueza do músculo esternocleidomastóideo
+http://purl.obolibrary.org/obo/SYMP_0000843,hiperemia funcional,hiperemia funcional
+http://purl.obolibrary.org/obo/SYMP_0000860,hipocinesia de instabilidade postural,hipocinesia de instabilidade postural
+http://purl.obolibrary.org/obo/SYMP_0000603,taquipneia,taquipneia
+http://purl.obolibrary.org/obo/SYMP_0019181,rouquidão,rouquidão
+http://purl.obolibrary.org/obo/SYMP_0000173,lesões vesiculares peri-labiais,lesões vesiculares peri-labiais
+http://purl.obolibrary.org/obo/SYMP_0000283,paralisia facial,paralisia facial
+http://purl.obolibrary.org/obo/SYMP_0000393,zumbido,zumbido
+http://purl.obolibrary.org/obo/SYMP_0000190,Carro-de-mão,Carro-de-mão
+http://purl.obolibrary.org/obo/SYMP_0000770,sintoma pélvico,sintoma pélvico
+http://purl.obolibrary.org/obo/SYMP_0000880,febre prolongada,febre prolongada
+http://purl.obolibrary.org/obo/SYMP_0000737,ulcera na mucosa respiratória,ulcera na mucosa respiratória
+http://purl.obolibrary.org/obo/SYMP_0000847,paralisia espástica,paralisia espástica
+http://purl.obolibrary.org/obo/SYMP_0000043,meningite hemorrágica,meningite hemorrágica
+http://purl.obolibrary.org/obo/SYMP_0000026,proliferação epidérmica,proliferação epidérmica
+http://purl.obolibrary.org/obo/SYMP_0000530,palpitação,palpitação
+http://purl.obolibrary.org/obo/SYMP_0000640,rash em tornozelo,rash em tornozelo
+http://purl.obolibrary.org/obo/SYMP_0000513,estridor,estridor
+http://purl.obolibrary.org/obo/SYMP_0000623,injúria renal aguda,injúria renal aguda
+http://purl.obolibrary.org/obo/SYMP_0000420,inchaço,inchaço
+http://purl.obolibrary.org/obo/SYMP_0000403,ganho de peso,ganho de peso
+http://purl.obolibrary.org/obo/SYMP_0000392,sintomas auditivos,sintomas auditivos
+http://purl.obolibrary.org/obo/SYMP_0019168,pneumonia,pneumonia
+http://purl.obolibrary.org/obo/SYMP_0019185,dificuldade de comunicação,dificuldade de comunicação
+http://purl.obolibrary.org/obo/SYMP_0000017,dobra,dobra
+http://purl.obolibrary.org/obo/SYMP_0000034,fluido em saco pericárdico,fluido em saco pericárdico
+http://purl.obolibrary.org/obo/SYMP_0000411,sintoma pediátrico,sintoma pediátrico
+http://purl.obolibrary.org/obo/SYMP_0000504,dor de cabeça,dor de cabeça
+http://purl.obolibrary.org/obo/SYMP_0000521,linfonodo aumentado,linfonodo aumentado
+http://purl.obolibrary.org/obo/SYMP_0000631,anemia hemolítica,anemia hemolítica
+http://purl.obolibrary.org/obo/SYMP_0000273,convulsão clônica,convulsão clônica
+http://purl.obolibrary.org/obo/SYMP_0000383,rigidez de nuca,rigidez de nuca
+http://purl.obolibrary.org/obo/SYMP_0000760,petéquias,petéquias
+http://purl.obolibrary.org/obo/SYMP_0000870,olhos ictéricos,olhos ictéricos
+http://purl.obolibrary.org/obo/SYMP_0000290,eructação,erutação
+http://purl.obolibrary.org/obo/SYMP_0000613,febre ,febre 
+http://purl.obolibrary.org/obo/SYMP_0000164,incoordenação,incoordenação
+http://purl.obolibrary.org/obo/SYMP_0000181,fígado amarelo,fígado amarelo
+http://purl.obolibrary.org/obo/SYMP_0019158,escara,escara
+http://purl.obolibrary.org/obo/SYMP_0000751,hemorragia na pele,hemorragia na pele
+http://purl.obolibrary.org/obo/SYMP_0000861,hipocinesia por hiportermia,hipocinesia por hiportermia
+http://purl.obolibrary.org/obo/SYMP_0000171,vesículas na boca,vesículas na boca
+http://purl.obolibrary.org/obo/SYMP_0000154,vasculite sistêmica,vasculita sistêmica
+http://purl.obolibrary.org/obo/SYMP_0000007,sangramento,sangramento
+http://purl.obolibrary.org/obo/SYMP_0000604,espirro,espirro
+http://purl.obolibrary.org/obo/SYMP_0019149,toxemia,toxemia
+http://purl.obolibrary.org/obo/SYMP_0000168,inchaço em veias,inchaço em veias
+http://purl.obolibrary.org/obo/SYMP_0000508,afasia,afasia
+http://purl.obolibrary.org/obo/SYMP_0000264,orquiepididimite,orquiepididimita
+http://purl.obolibrary.org/obo/SYMP_0000281,corrimento ocular,corrimento ocular
+http://purl.obolibrary.org/obo/SYMP_0000374,abcesso escrotal,abcesso escrotal
+http://purl.obolibrary.org/obo/SYMP_0000391,abcesso tireoideano,abcesso tireoideano
+http://purl.obolibrary.org/obo/SYMP_0000364,sintomas prostásticos,sintomas prostásticos
+http://purl.obolibrary.org/obo/SYMP_0000347,paralisia labial,paralisia labial
+http://purl.obolibrary.org/obo/SYMP_0000030,paralisia,paralisia
+http://purl.obolibrary.org/obo/SYMP_0000851,hematuria,hematuria
+http://purl.obolibrary.org/obo/SYMP_0000834,hipoestesia,hipoestesia
+http://purl.obolibrary.org/obo/SYMP_0019172,lesão ocular,lesão ocular
+http://purl.obolibrary.org/obo/SYMP_0000158,sintomas de baço,sintomas de baço
+http://purl.obolibrary.org/obo/SYMP_0000268,convulsão tônico-clônica,convulsão tônico-clônica
+http://purl.obolibrary.org/obo/SYMP_0000378,mastite severa,mastite severa
+http://purl.obolibrary.org/obo/SYMP_0000865,lesions in mouth,lesões na boca
+http://purl.obolibrary.org/obo/SYMP_0000738,yellowish green diarrhea,diarreia verde amarelada
+http://purl.obolibrary.org/obo/SYMP_0000848,motor paralysis,paralisia motora
+http://purl.obolibrary.org/obo/SYMP_0000755,intense toxemia,toxemia intensa
+http://purl.obolibrary.org/obo/SYMP_0000761,extracellular fluid alteration,alteração do fluido extracelular
+http://purl.obolibrary.org/obo/SYMP_0000871,icteric mucous membrane,membrana mucosa ictérica
+http://purl.obolibrary.org/obo/SYMP_0000614,cough,tosse
+http://purl.obolibrary.org/obo/SYMP_0000178,weight loss,perda de peso
+http://purl.obolibrary.org/obo/SYMP_0000195,abnormal hemiwalking hemistanding,hemiwalking anormal hemistanding
+http://purl.obolibrary.org/obo/SYMP_0019159,gastroenteritis,gastroenterite
+http://purl.obolibrary.org/obo/SYMP_0000792,epigastric pelvic swelling,edema pélvico epigástrico
+http://purl.obolibrary.org/obo/SYMP_0000775,right lower quadrant pelvic lump,caroço pélvico no quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000885,severe temperature increase,aumento severo de temperatura
+http://purl.obolibrary.org/obo/SYMP_0000048,obsolete high fever,febre alta obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000645,obsolete ankle swelling,inchaço do tornozelo obsoleto
+http://purl.obolibrary.org/obo/SYMP_0000628,vision distortion,distorção da visão
+http://purl.obolibrary.org/obo/SYMP_0000408,cataplexy,cataplexia
+http://purl.obolibrary.org/obo/SYMP_0000425,reticulocytosis,reticulocitose
+http://purl.obolibrary.org/obo/SYMP_0000518,generalized abdominal pain,dor abdominal generalizada
+http://purl.obolibrary.org/obo/SYMP_0000535,change in skin texture,mudança na textura da pele
+http://purl.obolibrary.org/obo/SYMP_0000274,tonic seizure,apreensão tônica
+http://purl.obolibrary.org/obo/SYMP_0000291,gas pain,dor de gás
+http://purl.obolibrary.org/obo/SYMP_0000384,neck symptom,sintoma de pescoço
+http://purl.obolibrary.org/obo/SYMP_0000783,left lower quadrant pelvic mass,massa pélvica no quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000039,enteritis,enterite
+http://purl.obolibrary.org/obo/SYMP_0000509,flatulence,flatulência
+http://purl.obolibrary.org/obo/SYMP_0000416,amaurosis,amaurose
+http://purl.obolibrary.org/obo/SYMP_0000526,ascites,ascite
+http://purl.obolibrary.org/obo/SYMP_0000388,nose symptom,sintoma de nariz
+http://purl.obolibrary.org/obo/SYMP_0000302,hypothermia,hipotermia
+http://purl.obolibrary.org/obo/SYMP_0000765,sensory disturbance,perturbação sensorial
+http://purl.obolibrary.org/obo/SYMP_0000875,lameness,claudicação
+http://purl.obolibrary.org/obo/SYMP_0000892,sensation perception,percepção de sensação
+http://purl.obolibrary.org/obo/SYMP_0000748,facial edema,edema facial
+http://purl.obolibrary.org/obo/SYMP_0000858,hypokinesia,hipocinesia
+http://purl.obolibrary.org/obo/SYMP_0000295,hepatic abscess,abscesso hepático
+http://purl.obolibrary.org/obo/SYMP_0000278,extensive ulcer,úlcera extensa
+http://purl.obolibrary.org/obo/SYMP_0000618,abnormal posture,postura anormal
+http://purl.obolibrary.org/obo/SYMP_0000186,exhaustion,exaustão
+http://purl.obolibrary.org/obo/SYMP_0000169,vesicles on feet,vesículas nos pés
+http://purl.obolibrary.org/obo/SYMP_0000773,pelvic lump,caroço pélvico
+http://purl.obolibrary.org/obo/SYMP_0000739,bronchopulmonary bleeding,sangramento broncopulmonar
+http://purl.obolibrary.org/obo/SYMP_0000756,menorrhagia,menorragia
+http://purl.obolibrary.org/obo/SYMP_0000849,stillbirth,natimorto
+http://purl.obolibrary.org/obo/SYMP_0000883,very high fever,febre muito alta
+http://purl.obolibrary.org/obo/SYMP_0000866,cervical edema,edema cervical
+http://purl.obolibrary.org/obo/SYMP_0000176,watery ocular discharge,secreção ocular aquosa
+http://purl.obolibrary.org/obo/SYMP_0000159,thymus atrophy,atrofia do timo
+http://purl.obolibrary.org/obo/SYMP_0000286,floppy head,cabeça de disquete
+http://purl.obolibrary.org/obo/SYMP_0000269,epileptic seizure,ataque epiléptico
+http://purl.obolibrary.org/obo/SYMP_0000422,dyspepsia,dispepsia
+http://purl.obolibrary.org/obo/SYMP_0000532,urge incontinence,urgência de incontinência
+http://purl.obolibrary.org/obo/SYMP_0000642,respiratory distress,dificuldade respiratória
+http://purl.obolibrary.org/obo/SYMP_0000062,inflammation of meninges,inflamação das meninges
+http://purl.obolibrary.org/obo/SYMP_0000045,hepatic necrosis,necrose hepática
+http://purl.obolibrary.org/obo/SYMP_0000609,generalized hyperhidrosis,hiperidrose generalizada
+http://purl.obolibrary.org/obo/SYMP_0000407,syncope,síncope
+http://purl.obolibrary.org/obo/SYMP_0019186,obsessive interests,interesses obsessivos
+http://purl.obolibrary.org/obo/SYMP_0000379,severe myalgia,mialgia severa
+http://purl.obolibrary.org/obo/SYMP_0000396,mydriasis,midríase
+http://purl.obolibrary.org/obo/SYMP_0000369,ptosis,ptose
+http://purl.obolibrary.org/obo/SYMP_0000839,acute pain,dor aguda
+http://purl.obolibrary.org/obo/SYMP_0000856,subjective vertigo,vertigem subjetiva
+http://purl.obolibrary.org/obo/SYMP_0000052,hyperemic liver,fígado hiperêmico
+http://purl.obolibrary.org/obo/SYMP_0000035,fragile bones,ossos frágeis
+http://purl.obolibrary.org/obo/SYMP_0000522,feeding difficulties and mismanagement,dificuldades de alimentação e má gestão
+http://purl.obolibrary.org/obo/SYMP_0000632,hip pain,Dor no quadril
+http://purl.obolibrary.org/obo/SYMP_0019177,fatigue,fadiga
+http://purl.obolibrary.org/obo/SYMP_0000747,extreme prostration,prostração extrema
+http://purl.obolibrary.org/obo/SYMP_0000764,retrobulbar pain,dor retrobulbar
+http://purl.obolibrary.org/obo/SYMP_0000167,vascular necrosis,necrose vascular
+http://purl.obolibrary.org/obo/SYMP_0000277,excess salivation,excesso de salivação
+http://purl.obolibrary.org/obo/SYMP_0000413,catatonia,catatonia
+http://purl.obolibrary.org/obo/SYMP_0000430,pleuritic chest pain,dor no peito pleurítica
+http://purl.obolibrary.org/obo/SYMP_0000540,painful respiration,respiração dolorosa
+http://purl.obolibrary.org/obo/SYMP_0000523,anorexia,anorexia
+http://purl.obolibrary.org/obo/SYMP_0000070,lesions in myocardium,lesões no miocárdio
+http://purl.obolibrary.org/obo/SYMP_0000499,right upper quadrant abdominal tenderness,sensibilidade abdominal no quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000292,heart failure,insuficiência cardíaca
+http://purl.obolibrary.org/obo/SYMP_0000182,bubo,bubão
+http://purl.obolibrary.org/obo/SYMP_0000072,lesions in spleen,lesões no baço
+http://purl.obolibrary.org/obo/SYMP_0000766,slow pulse,pulso lento
+http://purl.obolibrary.org/obo/SYMP_0000893,hypotensive,hipotensivo
+http://purl.obolibrary.org/obo/SYMP_0000876,pericardial effusion,derrame pericárdico
+http://purl.obolibrary.org/obo/SYMP_0000636,maculopapular rash,erupção maculopapular
+http://purl.obolibrary.org/obo/SYMP_0000619,tetany,tetania
+http://purl.obolibrary.org/obo/SYMP_0000187,tiredness,cansaço
+http://purl.obolibrary.org/obo/SYMP_0000784,epigastric pelvic mass,massa pélvica epigástrica
+http://purl.obolibrary.org/obo/SYMP_0000417,pupil symptom,sintoma de pupila
+http://purl.obolibrary.org/obo/SYMP_0000544,transient paralysis of limb,paralisia transitória do membro
+http://purl.obolibrary.org/obo/SYMP_0000527,undiagnosed cardiac murmur,sopro cardíaco não diagnosticado
+http://purl.obolibrary.org/obo/SYMP_0000637,opisthotonus,opistótono
+http://purl.obolibrary.org/obo/SYMP_0000654,irritability,irritabilidade
+http://purl.obolibrary.org/obo/SYMP_0000057,hyperplastic alveolar nodules,nódulos alveolares hiperplásicos
+http://purl.obolibrary.org/obo/SYMP_0000210,photophobia,fotofobia
+http://purl.obolibrary.org/obo/SYMP_0000303,hypoxemia,hipoxemia
+http://purl.obolibrary.org/obo/SYMP_0000320,vision symptom,sintoma de visão
+http://purl.obolibrary.org/obo/SYMP_0000434,urticaria,urticária
+http://purl.obolibrary.org/obo/SYMP_0000296,hepatic dysfunction,disfunção hepática
+http://purl.obolibrary.org/obo/SYMP_0000279,extreme exhaustion,exaustão extrema
+http://purl.obolibrary.org/obo/SYMP_0000389,stupor,estupor
+http://purl.obolibrary.org/obo/SYMP_0000100,lesions in pancreas,lesões no pâncreas
+http://purl.obolibrary.org/obo/SYMP_0000201,acute meningoencephalitis,meningoencefalite aguda
+http://purl.obolibrary.org/obo/SYMP_0000287,arrhythmia,arritmia
+http://purl.obolibrary.org/obo/SYMP_0000397,unreactive mydriasis,midríase não reativa
+http://purl.obolibrary.org/obo/SYMP_0000177,weakness,fraqueza
+http://purl.obolibrary.org/obo/SYMP_0000063,intestinal hemorrhage,hemorragia intestinal
+http://purl.obolibrary.org/obo/SYMP_0000080,loss of coordination,perda de coordenação
+http://purl.obolibrary.org/obo/SYMP_0000757,mild conjunctivitis,conjuntivite leve
+http://purl.obolibrary.org/obo/SYMP_0000774,generalized pelvic lump,caroço pélvico generalizado
+http://purl.obolibrary.org/obo/SYMP_0000867,gastrointestinal bleeding,sangramento gastrointestinal
+http://purl.obolibrary.org/obo/SYMP_0000440,hair loss,perda de cabelo
+http://purl.obolibrary.org/obo/SYMP_0000550,clubbing of fingers,baqueteamento de dedos
+http://purl.obolibrary.org/obo/SYMP_0000660,purpuric rash,erupção purpúrica
+http://purl.obolibrary.org/obo/SYMP_0000517,hemoptysis,hemoptise
+http://purl.obolibrary.org/obo/SYMP_0000627,disturbed vision,visão perturbada
+http://purl.obolibrary.org/obo/SYMP_0000310,inflamed eyes,olhos inflamados
+http://purl.obolibrary.org/obo/SYMP_0000200,acute arthritis,artrite aguda
+http://purl.obolibrary.org/obo/SYMP_0000071,lesions in respiratory tract,lesões no trato respiratório
+http://purl.obolibrary.org/obo/SYMP_0000054,hypergammaglobulinemia,hipergamaglobulinemia
+http://purl.obolibrary.org/obo/SYMP_0000431,sputum,escarro
+http://purl.obolibrary.org/obo/SYMP_0000541,periumbilic abdominal swelling,edema abdominal periumbilical
+http://purl.obolibrary.org/obo/SYMP_0000387,head symptom,sintoma de cabeça
+http://purl.obolibrary.org/obo/SYMP_0000301,hypopyon,hipópio
+http://purl.obolibrary.org/obo/SYMP_0000857,objective vertigo,vertigem objetiva
+http://purl.obolibrary.org/obo/SYMP_0000874,hematoma,hematoma
+http://purl.obolibrary.org/obo/SYMP_0000650,thick white exudate on tongue,exsudato branco espesso na língua
+http://purl.obolibrary.org/obo/SYMP_0000053,hyperemic spleen,baço hiperêmico
+http://purl.obolibrary.org/obo/SYMP_0000044,hemorrhagic thoracic lymphadenitis,linfadenite torácica hemorrágica
+http://purl.obolibrary.org/obo/SYMP_0000061,inflammation,inflamação
+http://purl.obolibrary.org/obo/SYMP_0000421,hematochezia,hematoquezia
+http://purl.obolibrary.org/obo/SYMP_0000531,splenomegaly,esplenomegalia
+http://purl.obolibrary.org/obo/SYMP_0000641,renal involvement,envolvimento renal
+http://purl.obolibrary.org/obo/SYMP_0000545,multiple sites abdominal swelling,inchaço abdominal em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000418,contracted pupil,pupila contraída
+http://purl.obolibrary.org/obo/SYMP_0000435,paresthesia,parestesia
+http://purl.obolibrary.org/obo/SYMP_0000191,hemistanding,hemistanding
+http://purl.obolibrary.org/obo/SYMP_0000788,multiple sites pelvic mass,massa pélvica em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000898,cardiac fibrillation,fibrilação cardíaca
+http://purl.obolibrary.org/obo/SYMP_0000081,low grade fever,febre baixa
+http://purl.obolibrary.org/obo/SYMP_0000311,intestinal hypermotility,hipermotilidade intestinal
+http://purl.obolibrary.org/obo/SYMP_0000789,right lower quadrant pelvic mass,massa pélvica no quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000472,early satiety,saciedade precoce
+http://purl.obolibrary.org/obo/SYMP_0000308,inability to swallow,incapacidade de engolir
+http://purl.obolibrary.org/obo/SYMP_0000325,mild bronchitis,bronquite leve
+http://purl.obolibrary.org/obo/SYMP_0000702,distended loops of intestines on rectal,alças distendidas do intestino no reto
+http://purl.obolibrary.org/obo/SYMP_0000812,right lower quadrant abdominal lump,caroço abdominal no quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000105,photosensitivity,fotossensibilidade
+http://purl.obolibrary.org/obo/SYMP_0000215,inability to comprehend speech,incapacidade de compreender a fala
+http://purl.obolibrary.org/obo/SYMP_0000802,epigastric abdominal mass,massa abdominal epigástrica
+http://purl.obolibrary.org/obo/SYMP_0000651,discharge,descarga
+http://purl.obolibrary.org/obo/SYMP_0019140,hematopoietic system symptom,sintoma do sistema hematopoiético
+http://purl.obolibrary.org/obo/SYMP_0000779,right upper quadrant pelvic lump,caroço pélvico no quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000889,remittent fever,febre remitente
+http://purl.obolibrary.org/obo/SYMP_0000068,laryngitis,laringite
+http://purl.obolibrary.org/obo/SYMP_0000085,lymphocytic hyperplasia,hiperplasia linfocítica
+http://purl.obolibrary.org/obo/SYMP_0000445,faint,desmaiar
+http://purl.obolibrary.org/obo/SYMP_0000462,symptom,sintoma
+http://purl.obolibrary.org/obo/SYMP_0000555,left upper quadrant abdominal swelling,edema abdominal no quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000572,splitting of urinary stream,divisão do fluxo urinário
+http://purl.obolibrary.org/obo/SYMP_0000665,yellow exudate from eyes,exsudado amarelo dos olhos
+http://purl.obolibrary.org/obo/SYMP_0000682,altered mental status,Estado mental alterado
+http://purl.obolibrary.org/obo/SYMP_0000205,salivary gland symptom,sintoma de glândula salivar
+http://purl.obolibrary.org/obo/SYMP_0000315,lateroventral deviation of the head,desvio lateroventral da cabeça
+http://purl.obolibrary.org/obo/SYMP_0000076,listlessness,apatia
+http://purl.obolibrary.org/obo/SYMP_0000453,right upper quadrant abdominal rigidity,rigidez abdominal no quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000436,abnormal vaginal bleeding,sangramento vaginal anormal
+http://purl.obolibrary.org/obo/SYMP_0000563,urinary frequency,frequência urinária
+http://purl.obolibrary.org/obo/SYMP_0000546,right lower quadrant abdominal pain,dor abdominal no quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000306,inability to feed,incapacidade de alimentar
+http://purl.obolibrary.org/obo/SYMP_0000528,cardiovascular system symptom,sintoma do sistema cardiovascular
+http://purl.obolibrary.org/obo/SYMP_0000655,mouth bleeding,boca sangrando
+http://purl.obolibrary.org/obo/SYMP_0000638,papular rash,erupção papular
+http://purl.obolibrary.org/obo/SYMP_0000058,hyperreflexia,hiperreflexia
+http://purl.obolibrary.org/obo/SYMP_0000793,left lower quadrant pelvic swelling,edema pélvico do quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000536,disturbance of skin sensation,perturbação da sensação na pele
+http://purl.obolibrary.org/obo/SYMP_0000409,hyperthermia,hipertermia
+http://purl.obolibrary.org/obo/SYMP_0000663,uncoordinated gait,marcha descoordenada
+http://purl.obolibrary.org/obo/SYMP_0000519,abnormal feces,fezes anormais
+http://purl.obolibrary.org/obo/SYMP_0000629,exanthema,exantema
+http://purl.obolibrary.org/obo/SYMP_0000646,synovitis,sinovite
+http://purl.obolibrary.org/obo/SYMP_0000066,keratotic nodules of the skin,nódulos ceratóticos da pele
+http://purl.obolibrary.org/obo/SYMP_0000049,obsolete hind limb paralysis,paralisia obsoleta dos membros posteriores
+http://purl.obolibrary.org/obo/SYMP_0000202,acute painful vision loss,perda aguda de visão dolorosa
+http://purl.obolibrary.org/obo/SYMP_0000312,joint symptom,sintoma articular
+http://purl.obolibrary.org/obo/SYMP_0000426,macrocytosis,macrocitose
+http://purl.obolibrary.org/obo/SYMP_0000398,vaginal discharge,corrimento vaginal
+http://purl.obolibrary.org/obo/SYMP_0000110,proliferative mouth papules,pápulas proliferativas da boca
+http://purl.obolibrary.org/obo/SYMP_0000196,reproductive system symptom,sintoma do sistema reprodutivo
+http://purl.obolibrary.org/obo/SYMP_0000086,lymphopenia,linfopenia
+http://purl.obolibrary.org/obo/SYMP_0000797,right upper quadrant pelvic swelling,edema pélvico do quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000463,lack of normal physiological development,falta de desenvolvimento fisiológico normal
+http://purl.obolibrary.org/obo/SYMP_0000480,nervous system symptom,sintoma do sistema nervoso
+http://purl.obolibrary.org/obo/SYMP_0000573,urinary stream symptom,sintoma de fluxo urinário
+http://purl.obolibrary.org/obo/SYMP_0000590,urgency of urination,urgência de urinar
+http://purl.obolibrary.org/obo/SYMP_0000683,tachypnoea,taquipneia
+http://purl.obolibrary.org/obo/SYMP_0000316,leg cramp,cãimbra na perna
+http://purl.obolibrary.org/obo/SYMP_0000803,multiple sites abdominal mass,massa abdominal em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000206,acute suppurative parotiditis,parotidite supurativa aguda
+http://purl.obolibrary.org/obo/SYMP_0000224,leg weakness,fraqueza nas pernas
+http://purl.obolibrary.org/obo/SYMP_0000207,afebrile,afebril
+http://purl.obolibrary.org/obo/SYMP_0000114,thrombocytopenia,trombocitopenia
+http://purl.obolibrary.org/obo/SYMP_0019141,lymphatic system symptom,sintoma do sistema linfático
+http://purl.obolibrary.org/obo/SYMP_0000711,hind limb paralysis,paralisia do membro posterior
+http://purl.obolibrary.org/obo/SYMP_0000059,hypotension,hipotensão
+http://purl.obolibrary.org/obo/SYMP_0000673,bradykinesia,bradicinesia
+http://purl.obolibrary.org/obo/SYMP_0000656,pale mucous membrane,membrana mucosa pálida
+http://purl.obolibrary.org/obo/SYMP_0000094,muscle weakness,fraqueza muscular
+http://purl.obolibrary.org/obo/SYMP_0000077,localized cutaneous lesions,lesões cutâneas localizadas
+http://purl.obolibrary.org/obo/SYMP_0000454,abdominal rigidity,rigidez abdominal
+http://purl.obolibrary.org/obo/SYMP_0000471,multiple sites abdominal rigidity,rigidez abdominal em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000581,sleep apnea,apnéia do sono
+http://purl.obolibrary.org/obo/SYMP_0000564,nocturia,noctúria
+http://purl.obolibrary.org/obo/SYMP_0000307,inibility to stand,incapacidade de ficar
+http://purl.obolibrary.org/obo/SYMP_0000568,short stature,baixa estatura
+http://purl.obolibrary.org/obo/SYMP_0000458,nausea,náusea
+http://purl.obolibrary.org/obo/SYMP_0000067,obsolete lameness,claudicação obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000444,nail discoloration,descoloração das unhas
+http://purl.obolibrary.org/obo/SYMP_0000427,impotence,impotência
+http://purl.obolibrary.org/obo/SYMP_0000554,left lower quadrant abdominal rigidity,rigidez abdominal no quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000537,cyanosis,cianose
+http://purl.obolibrary.org/obo/SYMP_0000664,yellow exudate from nose,exsudado amarelo do nariz
+http://purl.obolibrary.org/obo/SYMP_0000647,tache noire,tache noire
+http://purl.obolibrary.org/obo/SYMP_0000220,areflexia,arreflexia
+http://purl.obolibrary.org/obo/SYMP_0000330,mouth sore,Ferida na boca
+http://purl.obolibrary.org/obo/SYMP_0000798,abdominal mass,massa abdominal
+http://purl.obolibrary.org/obo/SYMP_0000101,partial paralysis,paralisia parcial
+http://purl.obolibrary.org/obo/SYMP_0000211,asthenopia,astenopia
+http://purl.obolibrary.org/obo/SYMP_0000321,loss of vision,perda de visão
+http://purl.obolibrary.org/obo/SYMP_0000297,hilar lymphadenitis,linfadenite hilar
+http://purl.obolibrary.org/obo/SYMP_0000894,cold clammy skin,pele fria e úmida
+http://purl.obolibrary.org/obo/SYMP_0000090,encephalitis,encefalite
+http://purl.obolibrary.org/obo/SYMP_0000132,necrosis,necrose
+http://purl.obolibrary.org/obo/SYMP_0000115,prolonged thrombocytopenia,trombocitopenia prolongada
+http://purl.obolibrary.org/obo/SYMP_0000485,dysuria,disúria
+http://purl.obolibrary.org/obo/SYMP_0000468,generalized abdominal rigidity,rigidez abdominal generalizada
+http://purl.obolibrary.org/obo/SYMP_0000595,febrile convulsion,convulsão febril
+http://purl.obolibrary.org/obo/SYMP_0000578,incontinence without sensory awareness,incontinência sem consciência sensorial
+http://purl.obolibrary.org/obo/SYMP_0000688,circling movement,movimento circular
+http://purl.obolibrary.org/obo/SYMP_0000808,multiple sites abdominal lump,protuberância abdominal em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000674,acute cranial nerve dysfunction,disfunção aguda do nervo craniano
+http://purl.obolibrary.org/obo/SYMP_0000691,cytopenia,citopenia
+http://purl.obolibrary.org/obo/SYMP_0000119,reddening,avermelhado
+http://purl.obolibrary.org/obo/SYMP_0000229,bloody stool,fezes com sangue
+http://purl.obolibrary.org/obo/SYMP_0019146,hyponatremia,hiponatremia
+http://purl.obolibrary.org/obo/SYMP_0000716,swelling symptom,sintoma de inchaço
+http://purl.obolibrary.org/obo/SYMP_0000678,acute mental dysfunction,disfunção mental aguda
+http://purl.obolibrary.org/obo/SYMP_0000099,pain,dor
+http://purl.obolibrary.org/obo/SYMP_0000459,digestive system symptom,sintoma do sistema digestivo
+http://purl.obolibrary.org/obo/SYMP_0000476,loss of weight,perda de peso
+http://purl.obolibrary.org/obo/SYMP_0000569,oliguria,oligúria
+http://purl.obolibrary.org/obo/SYMP_0000586,overflow incontinence,incontinência de transbordamento
+http://purl.obolibrary.org/obo/SYMP_0000142,spleen hemorrhages,hemorragias de baço
+http://purl.obolibrary.org/obo/SYMP_0000252,diffuse rash,erupção cutânea difusa
+http://purl.obolibrary.org/obo/SYMP_0000125,liver inflammation,inflamação do fígado
+http://purl.obolibrary.org/obo/SYMP_0000362,progressive prostration,prostração progressiva
+http://purl.obolibrary.org/obo/SYMP_0000722,moderate conjuctival injection,injeção conjuntival moderada
+http://purl.obolibrary.org/obo/SYMP_0019160,boil,ferver
+http://purl.obolibrary.org/obo/SYMP_0000467,right lower quadrant abdominal rigidity,rigidez abdominal no quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000150,swollen cervical lymphnodes,linfonodos cervicais inchados
+http://purl.obolibrary.org/obo/SYMP_0000133,severe necrosis,necrose severa
+http://purl.obolibrary.org/obo/SYMP_0000799,abdominal lump,caroço abdominal
+http://purl.obolibrary.org/obo/SYMP_0000559,voice disturbance,perturbação da voz
+http://purl.obolibrary.org/obo/SYMP_0000669,abnormal hemistanding,hemistanding anormal
+http://purl.obolibrary.org/obo/SYMP_0000449,cardiogenic shock,choque cardiogênico
+http://purl.obolibrary.org/obo/SYMP_0000482,alteration of consciousness,alteração de consciência
+http://purl.obolibrary.org/obo/SYMP_0000592,excessive crying of infant,choro excessivo de criança
+http://purl.obolibrary.org/obo/SYMP_0000225,asthenia,astenia
+http://purl.obolibrary.org/obo/SYMP_0000335,neck weakness,fraqueza no pescoço
+http://purl.obolibrary.org/obo/SYMP_0000352,peripheral muscle weakness,fraqueza muscular periférica
+http://purl.obolibrary.org/obo/SYMP_0000242,cough with bloody sputum,tosse com expectoração com sangue
+http://purl.obolibrary.org/obo/SYMP_0000712,infertility,infertilidade
+http://purl.obolibrary.org/obo/SYMP_0000822,chronic enteritis,enterite crônica
+http://purl.obolibrary.org/obo/SYMP_0000473,"nutrition, metabolism, and development symptom","nutrição, metabolismo e sintoma de desenvolvimento"
+http://purl.obolibrary.org/obo/SYMP_0000490,multiple sites abdominal tenderness,sensibilidade abdominal em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000216,inability to speak,incapacidade de falar
+http://purl.obolibrary.org/obo/SYMP_0000233,inability to think clearly,incapacidade de pensar com clareza
+http://purl.obolibrary.org/obo/SYMP_0000326,mild hypotension,hipotensão leve
+http://purl.obolibrary.org/obo/SYMP_0000343,painful lymph glands,glândulas linfáticas dolorosas
+http://purl.obolibrary.org/obo/SYMP_0000106,plasmacytosis,plasmocitose
+http://purl.obolibrary.org/obo/SYMP_0000123,sclerodermoid plaques,placas esclerodermóides
+http://purl.obolibrary.org/obo/SYMP_0019150,pharyngitis,faringite
+http://purl.obolibrary.org/obo/SYMP_0000720,microangiopathic hemolytic anemia,anemia hemolítica microangiopática
+http://purl.obolibrary.org/obo/SYMP_0000703,droopy ears,orelhas caídas
+http://purl.obolibrary.org/obo/SYMP_0000813,right upper quadrant abdominal lump,caroço abdominal no quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000830,phantom pain,dor fantasma
+http://purl.obolibrary.org/obo/SYMP_0000095,myocarditis,miocardite
+http://purl.obolibrary.org/obo/SYMP_0000899,ventricular fibrillation,fibrilação ventricular
+http://purl.obolibrary.org/obo/SYMP_0019151,pulmonary edema,edema pulmonar
+http://purl.obolibrary.org/obo/SYMP_0000582,hypersomnia,hipersonia
+http://purl.obolibrary.org/obo/SYMP_0000692,low blood pressure,pressão sanguínea baixa
+http://purl.obolibrary.org/obo/SYMP_0000494,renal colic,cólica renal
+http://purl.obolibrary.org/obo/SYMP_0000477,epigastric abdominal swelling,edema abdominal epigástrico
+http://purl.obolibrary.org/obo/SYMP_0000587,abnormal chest sound,som torácico anormal
+http://purl.obolibrary.org/obo/SYMP_0000740,genitourinary hemorrhage,hemorragia geniturinária
+http://purl.obolibrary.org/obo/SYMP_0000850,congested sclera,esclera congestionada
+http://purl.obolibrary.org/obo/SYMP_0000160,tracheobronchitis,traqueobronquite
+http://purl.obolibrary.org/obo/SYMP_0000143,spleen infiltrates,infiltrados do baço
+http://purl.obolibrary.org/obo/SYMP_0000253,anisocoria,anisocoria
+http://purl.obolibrary.org/obo/SYMP_0000270,simple partial seizure,apreensão parcial simples
+http://purl.obolibrary.org/obo/SYMP_0000380,severe pneumonia,pneumonia severa
+http://purl.obolibrary.org/obo/SYMP_0000363,progressive weakness,fraqueza progressiva
+http://purl.obolibrary.org/obo/SYMP_0000013,obsolete capillary leakage,vazamento capilar obsoleto
+http://purl.obolibrary.org/obo/SYMP_0000707,flaccid muscle tone,tônus ??muscular flácido
+http://purl.obolibrary.org/obo/SYMP_0000817,inability to concentrate,incapacidade de se concentrar
+http://purl.obolibrary.org/obo/SYMP_0000500,right lower quadrant abdominal tenderness,sensibilidade abdominal no quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000610,dizziness,tontura
+http://purl.obolibrary.org/obo/SYMP_0019155,lymphadenitis,linfadenite
+http://purl.obolibrary.org/obo/SYMP_0019138,immune system symptom,sintoma do sistema imunológico
+http://purl.obolibrary.org/obo/SYMP_0000696,decreased motor response,resposta motora diminuída
+http://purl.obolibrary.org/obo/SYMP_0000679,acute dyspnea,dispneia aguda
+http://purl.obolibrary.org/obo/SYMP_0000601,hyperventilation,hiperventilação
+http://purl.obolibrary.org/obo/SYMP_0000577,fussy infant,criança agitada
+http://purl.obolibrary.org/obo/SYMP_0000687,chronic fatigue syndrome,síndrome da fadiga crônica
+http://purl.obolibrary.org/obo/SYMP_0000260,dry mouth,boca seca
+http://purl.obolibrary.org/obo/SYMP_0000243,cyclic fever,febre cíclica
+http://purl.obolibrary.org/obo/SYMP_0000370,renal abscess,abscesso renal
+http://purl.obolibrary.org/obo/SYMP_0000353,phlegm,catarro
+http://purl.obolibrary.org/obo/SYMP_0000840,allodynia,alodinia
+http://purl.obolibrary.org/obo/SYMP_0000730,rapid respiration,respiração rápida
+http://purl.obolibrary.org/obo/SYMP_0000731,renal failure,insuficiência renal
+http://purl.obolibrary.org/obo/SYMP_0000134,sinusitis,sinusite
+http://purl.obolibrary.org/obo/SYMP_0000151,systemic infection,infecção sistêmica
+http://purl.obolibrary.org/obo/SYMP_0000004,obsolete arrested moulting,muda obsoleta presa
+http://purl.obolibrary.org/obo/SYMP_0000583,hypersomnia with sleep apnea,hipersonia com apnéia do sono
+http://purl.obolibrary.org/obo/SYMP_0000138,slight pyrexia,leve pirexia
+http://purl.obolibrary.org/obo/SYMP_0000491,continuous leakage of urine,vazamento contínuo de urina
+http://purl.obolibrary.org/obo/SYMP_0000124,seizure,convulsão
+http://purl.obolibrary.org/obo/SYMP_0000141,spasticity,espasticidade
+http://purl.obolibrary.org/obo/SYMP_0000234,cloudy cornea,córnea nublada
+http://purl.obolibrary.org/obo/SYMP_0000251,dermal abscess,abscesso dérmico
+http://purl.obolibrary.org/obo/SYMP_0000361,progressive emaciation,emagrecimento progressivo
+http://purl.obolibrary.org/obo/SYMP_0000344,palpebral edema,edema palpebral
+http://purl.obolibrary.org/obo/SYMP_0000831,nociceptive pain,dor nociceptiva
+http://purl.obolibrary.org/obo/SYMP_0000721,moderate anemia,anemia moderada
+http://purl.obolibrary.org/obo/SYMP_0019142,adenopathy,adenopatia
+http://purl.obolibrary.org/obo/SYMP_0000478,abdominal swelling,inchaço abdominal
+http://purl.obolibrary.org/obo/SYMP_0000495,urethral discharge,corrimento uretral
+http://purl.obolibrary.org/obo/SYMP_0000348,throat muscle paralysis,paralisia do músculo da garganta
+http://purl.obolibrary.org/obo/SYMP_0000128,conjunctivitis,conjuntivite
+http://purl.obolibrary.org/obo/SYMP_0000238,continuous profuse salivation,salivação profusa contínua
+http://purl.obolibrary.org/obo/SYMP_0000725,necrosis of jejunum,necrose do jejuno
+http://purl.obolibrary.org/obo/SYMP_0000835,hypoalgesia,hipoalgesia
+http://purl.obolibrary.org/obo/SYMP_0000818,localized superficial mass,massa superficial localizada
+http://purl.obolibrary.org/obo/SYMP_0019173,meningitis,meningite
+http://purl.obolibrary.org/obo/SYMP_0000481,persistent vegetative state,Estado vegetativo persistente
+http://purl.obolibrary.org/obo/SYMP_0000591,left upper quadrant abdominal tenderness,sensibilidade abdominal no quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000334,muscle necrosis,necrose muscular
+http://purl.obolibrary.org/obo/SYMP_0000317,leukopenia,leucopenia
+http://purl.obolibrary.org/obo/SYMP_0000000,cellulitis,celulite
+http://purl.obolibrary.org/obo/SYMP_0000821,swelling in chest,inchaço no peito
+http://purl.obolibrary.org/obo/SYMP_0000804,generalized abdominal mass,massa abdominal generalizada
+http://purl.obolibrary.org/obo/SYMP_0000855,metrorrhagia,metrorragia
+http://purl.obolibrary.org/obo/SYMP_0000275,atonic seizure,convulsão atônica
+http://purl.obolibrary.org/obo/SYMP_0000148,obsolete sudden onset of fever,obsoleto início repentino de febre
+http://purl.obolibrary.org/obo/SYMP_0000258,double vision,visão dupla
+http://purl.obolibrary.org/obo/SYMP_0000385,throat symptom,sintoma de garganta
+http://purl.obolibrary.org/obo/SYMP_0000368,proximal paralysis of arm and leg,paralisia proximal de braço e perna
+http://purl.obolibrary.org/obo/SYMP_0000165,upper respiratory distress,dificuldade respiratória superior
+http://purl.obolibrary.org/obo/SYMP_0000018,darkening of skin,escurecimento da pele
+http://purl.obolibrary.org/obo/SYMP_0000762,excess lymphocytes in cerebrospinal fluid,excesso de linfócitos no líquido cefalorraquidiano
+http://purl.obolibrary.org/obo/SYMP_0000872,icteric skin,pele ictérica
+http://purl.obolibrary.org/obo/SYMP_0000745,change in body sensation,mudança na sensação corporal
+http://purl.obolibrary.org/obo/SYMP_0000505,throat pain,dor de garganta
+http://purl.obolibrary.org/obo/SYMP_0000615,lack of coordination,falta de coordenação
+http://purl.obolibrary.org/obo/SYMP_0000841,reactive hyperemia,hiperemia reativa
+http://purl.obolibrary.org/obo/SYMP_0000261,dry mucous membrane,membrana mucosa seca
+http://purl.obolibrary.org/obo/SYMP_0000244,alteration of appetite,alteração de apetite
+http://purl.obolibrary.org/obo/SYMP_0000354,pneumonitis,pneumonia
+http://purl.obolibrary.org/obo/SYMP_0000371,respiratory paralysis,paralisia respiratória
+http://purl.obolibrary.org/obo/SYMP_0000265,absence seizure,crise de ausência
+http://purl.obolibrary.org/obo/SYMP_0000248,decreased conscious proprioception,diminuição da propriocepção consciente
+http://purl.obolibrary.org/obo/SYMP_0000375,severe abdominal cramp,cólica abdominal severa
+http://purl.obolibrary.org/obo/SYMP_0000358,premature labor,parto prematuro
+http://purl.obolibrary.org/obo/SYMP_0000862,referred pain,dor referida
+http://purl.obolibrary.org/obo/SYMP_0000718,loss of consciousness,perda de consciência
+http://purl.obolibrary.org/obo/SYMP_0000735,suppurative pneumonia,pneumonia supurativa
+http://purl.obolibrary.org/obo/SYMP_0000845,hyperemia of the neck,hiperemia do pescoço
+http://purl.obolibrary.org/obo/SYMP_0000828,sore eyes,olhos doloridos
+http://purl.obolibrary.org/obo/SYMP_0019166,ulcerations,ulcerações
+http://purl.obolibrary.org/obo/SYMP_0019183,hyperactivity,hiperatividade
+http://purl.obolibrary.org/obo/SYMP_0000139,sneezing,espirros
+http://purl.obolibrary.org/obo/SYMP_0000156,thirst,sede
+http://purl.obolibrary.org/obo/SYMP_0000009,blister,bolha
+http://purl.obolibrary.org/obo/SYMP_0000753,intense anxiety,ansiedade intensa
+http://purl.obolibrary.org/obo/SYMP_0000612,periumbilic abdominal rigidity,rigidez abdominal periumbilical
+http://purl.obolibrary.org/obo/SYMP_0000502,mixed incontinence (female) (male),incontinência mista (feminino) (masculino)
+http://purl.obolibrary.org/obo/SYMP_0019174,chills,arrepios
+http://purl.obolibrary.org/obo/SYMP_0000588,extravasation of urine,extravasamento de urina
+http://purl.obolibrary.org/obo/SYMP_0000698,decreased sucking,diminuição da sucção
+http://purl.obolibrary.org/obo/SYMP_0000496,epigastric abdominal tenderness,sensibilidade abdominal epigástrica
+http://purl.obolibrary.org/obo/SYMP_0019156,hematogenous,hematogênico
+http://purl.obolibrary.org/obo/SYMP_0000146,feces and droppings symptom,sintoma de fezes e fezes
+http://purl.obolibrary.org/obo/SYMP_0000129,severe conjunctivitis,conjuntivite severa
+http://purl.obolibrary.org/obo/SYMP_0000239,cornea symptom,sintoma de córnea
+http://purl.obolibrary.org/obo/SYMP_0000256,diminished gag reflex,reflexo de vômito diminuído
+http://purl.obolibrary.org/obo/SYMP_0000349,paraplegia,paraplegia
+http://purl.obolibrary.org/obo/SYMP_0000366,prostatic infection,infecção prostática
+http://purl.obolibrary.org/obo/SYMP_0000032,flaccidity,flacidez
+http://purl.obolibrary.org/obo/SYMP_0000015,giddiness,vertigem
+http://purl.obolibrary.org/obo/SYMP_0000709,granulomatous inflammation,inflamação granulomatosa
+http://purl.obolibrary.org/obo/SYMP_0000726,painful reginal lymphadenopathy,linfadenopatia reginal dolorosa
+http://purl.obolibrary.org/obo/SYMP_0000743,blotchy red rash,erupção vermelha manchada
+http://purl.obolibrary.org/obo/SYMP_0000819,localized superficial swelling,edema superficial localizado
+http://purl.obolibrary.org/obo/SYMP_0000836,hyperalgesia,hiperalgesia
+http://purl.obolibrary.org/obo/SYMP_0000853,stress incontinence,incontinência de estresse
+http://purl.obolibrary.org/obo/SYMP_0000602,orthopnea,ortopneia
+http://purl.obolibrary.org/obo/SYMP_0019164,excessive tearing,rasgo excessivo
+http://purl.obolibrary.org/obo/SYMP_0019147,hematemesis,hematêmese
+http://purl.obolibrary.org/obo/SYMP_0000170,vesicles on hoof corona,vesículas no casco corona
+http://purl.obolibrary.org/obo/SYMP_0000137,slight cough,tosse leve
+http://purl.obolibrary.org/obo/SYMP_0000247,proprioception symptom,sintoma de propriocepção
+http://purl.obolibrary.org/obo/SYMP_0000040,hematuria,hematuria
+http://purl.obolibrary.org/obo/SYMP_0000734,stroke,derrame
+http://purl.obolibrary.org/obo/SYMP_0000717,leg swelling,inchaço na perna
+http://purl.obolibrary.org/obo/SYMP_0000689,cramp,cãibra
+http://purl.obolibrary.org/obo/SYMP_0000400,weak cry,choro fraco
+http://purl.obolibrary.org/obo/SYMP_0000510,pallor,palidez
+http://purl.obolibrary.org/obo/SYMP_0000486,urinary system symptom,sintoma do sistema urinário
+http://purl.obolibrary.org/obo/SYMP_0000469,epigastric abdominal rigidity,rigidez abdominal epigástrica
+http://purl.obolibrary.org/obo/SYMP_0000579,insomnia with sleep apnea,insônia com apnéia do sono
+http://purl.obolibrary.org/obo/SYMP_0000596,convulsion,convulsão
+http://purl.obolibrary.org/obo/SYMP_0000339,occasional diplopia,diplopia ocasional
+http://purl.obolibrary.org/obo/SYMP_0000152,systemic necrosis,necrose sistêmica
+http://purl.obolibrary.org/obo/SYMP_0000262,endocarditis,endocardite
+http://purl.obolibrary.org/obo/SYMP_0000372,runny nose,nariz a pingar
+http://purl.obolibrary.org/obo/SYMP_0000005,ataxia,ataxia
+http://purl.obolibrary.org/obo/SYMP_0000826,sinus tachycardia,taquicardia sinusal
+http://purl.obolibrary.org/obo/SYMP_0000809,periumbilic abdominal lump,caroço abdominal periumbilic
+http://purl.obolibrary.org/obo/SYMP_0000022,depression,depressão
+http://purl.obolibrary.org/obo/SYMP_0000606,nocturnal enuresis,enurese noturna
+http://purl.obolibrary.org/obo/SYMP_0000157,thymus symptom,sintoma de timo
+http://purl.obolibrary.org/obo/SYMP_0000174,wasting,desperdiçando
+http://purl.obolibrary.org/obo/SYMP_0000284,fixed pupil,pupila fixa
+http://purl.obolibrary.org/obo/SYMP_0019184,limited attention,atenção limitada
+http://purl.obolibrary.org/obo/SYMP_0000754,severe chest pain,forte dor no peito
+http://purl.obolibrary.org/obo/SYMP_0000771,pelvic swelling,inchaço pélvico
+http://purl.obolibrary.org/obo/SYMP_0000027,obsolete excess mucus in bronchi,excesso de muco obsoleto nos brônquios
+http://purl.obolibrary.org/obo/SYMP_0000404,dyspareunia,dispareunia
+http://purl.obolibrary.org/obo/SYMP_0000514,respiratory system and chest symptom,sistema respiratório e sintoma no peito
+http://purl.obolibrary.org/obo/SYMP_0000607,hallucination,alucinação
+http://purl.obolibrary.org/obo/SYMP_0000624,obsolete appendicitis,apendicite obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000846,chest hyperemia,hiperemia torácica
+http://purl.obolibrary.org/obo/SYMP_0000863,facial tremor,tremor facial
+http://purl.obolibrary.org/obo/SYMP_0000249,reflex symptom,sintoma reflexo
+http://purl.obolibrary.org/obo/SYMP_0000266,focal seizure,apreensão focal
+http://purl.obolibrary.org/obo/SYMP_0000359,profound weakness,fraqueza profunda
+http://purl.obolibrary.org/obo/SYMP_0000376,severe diarrhea,diarréia severa
+http://purl.obolibrary.org/obo/SYMP_0000042,hemorrhagic enteritis,enterite hemorrágica
+http://purl.obolibrary.org/obo/SYMP_0000736,lymph gland swelling,inchaço da glândula linfática
+http://purl.obolibrary.org/obo/SYMP_0000854,hypermenorrhea,hipermenorreia
+http://purl.obolibrary.org/obo/SYMP_0000837,chronic pain,dor crônica
+http://purl.obolibrary.org/obo/SYMP_0000147,steatorrhea,esteatorreia
+http://purl.obolibrary.org/obo/SYMP_0000257,absent gag reflex,reflexo de vômito ausente
+http://purl.obolibrary.org/obo/SYMP_0000367,proteinuria,proteinúria
+http://purl.obolibrary.org/obo/SYMP_0000520,visible peristalsis,peristaltismo visível
+http://purl.obolibrary.org/obo/SYMP_0000630,frontal headache,dor de cabeça frontal
+http://purl.obolibrary.org/obo/SYMP_0000050,hunched posture,postura curvada
+http://purl.obolibrary.org/obo/SYMP_0000033,flat keratotic capsule,cápsula ceratótica plana
+http://purl.obolibrary.org/obo/SYMP_0000744,cervical lymphadenopathy,linfadenopatia cervical
+http://purl.obolibrary.org/obo/SYMP_0000727,palate weakness,fraqueza do paladar
+http://purl.obolibrary.org/obo/SYMP_0000410,neurological and physiological symptom,sintoma neurológico e fisiológico
+http://purl.obolibrary.org/obo/SYMP_0019175,sweaty,suado
+http://purl.obolibrary.org/obo/SYMP_0000597,head and neck symptom,sintoma de cabeça e pescoço
+http://purl.obolibrary.org/obo/SYMP_0000487,rash,erupção cutânea
+http://purl.obolibrary.org/obo/SYMP_0000401,wobble,oscilação
+http://purl.obolibrary.org/obo/SYMP_0000390,thyroid symptom,sintoma da tireóide
+http://purl.obolibrary.org/obo/SYMP_0000280,extreme fatigue,fadiga extrema
+http://purl.obolibrary.org/obo/SYMP_0000357,postphlebitic ulcer,úlcera pós-flebítica
+http://purl.obolibrary.org/obo/SYMP_0000023,disorientation,desorientaçao
+http://purl.obolibrary.org/obo/SYMP_0000827,ventricular tachycardia,taquicardia ventricular
+http://purl.obolibrary.org/obo/SYMP_0000844,face hyperemia,hiperemia facial
+http://purl.obolibrary.org/obo/SYMP_0000620,left lower quadrant abdominal pain,dor abdominal no quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0019182,behavioral symptom,sintoma comportamental
+http://purl.obolibrary.org/obo/SYMP_0019165,light sensitivity,sensibilidade à luz
+http://purl.obolibrary.org/obo/SYMP_0000511,flushing,rubor
+http://purl.obolibrary.org/obo/SYMP_0000024,drowsiness,sonolência
+http://purl.obolibrary.org/obo/SYMP_0000041,hemorrhage,hemorragia
+http://purl.obolibrary.org/obo/SYMP_0000697,decreased pharyngeal tone,tônus ??faríngeo diminuído
+http://purl.obolibrary.org/obo/SYMP_0000611,periumbilic abdominal pain,dor abdominal periumbilica
+http://purl.obolibrary.org/obo/SYMP_0000501,left lower quadrant abdominal swelling,edema abdominal no quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000192,hemiwalking,hemiwalking
+http://purl.obolibrary.org/obo/SYMP_0000405,vaginismus,vaginismo
+http://purl.obolibrary.org/obo/SYMP_0000515,hiccough,soluço
+http://purl.obolibrary.org/obo/SYMP_0000381,spleen abscess,abscesso do baço
+http://purl.obolibrary.org/obo/SYMP_0000161,obsolete transient fever,febre transitória obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000271,complex partial seizure,convulsão parcial complexa
+http://purl.obolibrary.org/obo/SYMP_0000014,obsolete cardiomyocyte destruction,destruição de cardiomiócitos obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000031,flaccid limb paralysis,paralisia flácida de membro
+http://purl.obolibrary.org/obo/SYMP_0000179,wet droppings,excrementos molhados
+http://purl.obolibrary.org/obo/SYMP_0000776,epigastric pelvic lump,caroço pélvico epigástrico
+http://purl.obolibrary.org/obo/SYMP_0000759,parotid pain,dor de parótida
+http://purl.obolibrary.org/obo/SYMP_0000442,knee pain,dor no joelho
+http://purl.obolibrary.org/obo/SYMP_0000051,hydrocephalus,hidrocefalia
+http://purl.obolibrary.org/obo/SYMP_0000758,neurological alteration,alteração neurológica
+http://purl.obolibrary.org/obo/SYMP_0000868,breathing problems,problemas respiratórios
+http://purl.obolibrary.org/obo/SYMP_0000185,weariness,cansaço
+http://purl.obolibrary.org/obo/SYMP_0000782,right upper quadrant pelvic mass,massa pélvica no quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000055,hyperkeratotic plaques of surface of foot,placas hiperceratóticas da superfície do pé
+http://purl.obolibrary.org/obo/SYMP_0000038,dyspneic enteritis,enterite dispneica
+http://purl.obolibrary.org/obo/SYMP_0000749,hemodynamic instability,instabilidade hemodinâmica
+http://purl.obolibrary.org/obo/SYMP_0000859,rigidity hypokinesia,rigidez hipocinesia
+http://purl.obolibrary.org/obo/SYMP_0000415,amaurosis fugax,amaurose fugax
+http://purl.obolibrary.org/obo/SYMP_0000432,itching,coceira
+http://purl.obolibrary.org/obo/SYMP_0000525,transient alteration of awareness,alteração transitória de consciência
+http://purl.obolibrary.org/obo/SYMP_0000542,epigastric abdominal pain,dor abdominal epigástrica
+http://purl.obolibrary.org/obo/SYMP_0000652,wound discharge,secreção da ferida
+http://purl.obolibrary.org/obo/SYMP_0000635,low backache,dor nas costas
+http://purl.obolibrary.org/obo/SYMP_0000621,alexia,alexia
+http://purl.obolibrary.org/obo/SYMP_0000423,pyrosis,pirose
+http://purl.obolibrary.org/obo/SYMP_0000533,post-void dribbling,drible pós-vazio
+http://purl.obolibrary.org/obo/SYMP_0000406,bruise,ematoma
+http://purl.obolibrary.org/obo/SYMP_0000516,lump in chest,caroço no peito
+http://purl.obolibrary.org/obo/SYMP_0000175,watery diarrhea,diarréia aquosa
+http://purl.obolibrary.org/obo/SYMP_0000285,flaccid paralysis,paralisia flácida
+http://purl.obolibrary.org/obo/SYMP_0000395,facial muscle twitching,contração muscular facial
+http://purl.obolibrary.org/obo/SYMP_0000882,high fever,febre alta
+http://purl.obolibrary.org/obo/SYMP_0000772,pelvic mass,massa pélvica
+http://purl.obolibrary.org/obo/SYMP_0000028,obsolete exophthalmia,exoftalmia obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000625,conscious disturbance,perturbação consciente
+http://purl.obolibrary.org/obo/SYMP_0000608,syncope and collapse,síncope e colapso
+http://purl.obolibrary.org/obo/SYMP_0019187,repetitive behavior,comportamento repetitivo
+http://purl.obolibrary.org/obo/SYMP_0000193,hopping,saltitar
+http://purl.obolibrary.org/obo/SYMP_0000046,hepatitis,hepatite
+http://purl.obolibrary.org/obo/SYMP_0017795,hemic and immune system symptom,sintoma do sistema hemico e imunológico
+http://purl.obolibrary.org/obo/SYMP_0000506,hemorrhage from throat,hemorragia da garganta
+http://purl.obolibrary.org/obo/SYMP_0000616,loss of height,perda de altura
+http://purl.obolibrary.org/obo/SYMP_0000633,inflammatory low back pain,dor lombar inflamatória
+http://purl.obolibrary.org/obo/SYMP_0019178,necrotic lesion,lesão necrótica
+http://purl.obolibrary.org/obo/SYMP_0000414,dysarthria,disartria
+http://purl.obolibrary.org/obo/SYMP_0000183,muscle symptom,sintoma muscular
+http://purl.obolibrary.org/obo/SYMP_0000166,vascular lesions,lesões vasculares
+http://purl.obolibrary.org/obo/SYMP_0000276,obsolete excess pericardial fluid,excesso de líquido pericárdico obsoleto
+http://purl.obolibrary.org/obo/SYMP_0000293,hemiparesis,hemiparesia
+http://purl.obolibrary.org/obo/SYMP_0000386,mouth symptom,sintoma de boca
+http://purl.obolibrary.org/obo/SYMP_0000763,renal alteration,alteração renal
+http://purl.obolibrary.org/obo/SYMP_0000890,relapsing fever,Febre Relapsa
+http://purl.obolibrary.org/obo/SYMP_0000873,otitis,otite
+http://purl.obolibrary.org/obo/SYMP_0000780,multiple sites pelvic lump,protuberância pélvica em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000036,hemorrhagic gastroenteritis,gastroenterite hemorrágica
+http://purl.obolibrary.org/obo/SYMP_0000019,deafness,surdez
+http://purl.obolibrary.org/obo/SYMP_0000877,decreased tongue tone,diminuição do tom da língua
+http://purl.obolibrary.org/obo/SYMP_0000073,lesions in thymus,lesões no timo
+http://purl.obolibrary.org/obo/SYMP_0000056,hyperpigmentation,hiperpigmentação
+http://purl.obolibrary.org/obo/SYMP_0000767,subconjunctival bleeding,sangramento subconjuntival
+http://purl.obolibrary.org/obo/SYMP_0000670,abnormal hemiwalking,hemiwalking anormal
+http://purl.obolibrary.org/obo/SYMP_0000653,yellow dropping,caindo amarelo
+http://purl.obolibrary.org/obo/SYMP_0000450,shock,choque
+http://purl.obolibrary.org/obo/SYMP_0000433,anasarca,anasarca
+http://purl.obolibrary.org/obo/SYMP_0000560,polydipsia,polidipsia
+http://purl.obolibrary.org/obo/SYMP_0000543,memory loss,perda de memória
+http://purl.obolibrary.org/obo/SYMP_0000194,conscious proprioception,propriocepção consciente
+http://purl.obolibrary.org/obo/SYMP_0000047,hepatosplenomegaly,hepatoesplenomegalia
+http://purl.obolibrary.org/obo/SYMP_0000064,joint pain,dor nas articulações
+http://purl.obolibrary.org/obo/SYMP_0000551,disturbances of sensation of smell and taste,distúrbios da sensação de olfato e paladar
+http://purl.obolibrary.org/obo/SYMP_0000534,spontaneous ecchymoses,equimoses espontâneas
+http://purl.obolibrary.org/obo/SYMP_0000441,elbow pain,dor de cotovelo
+http://purl.obolibrary.org/obo/SYMP_0000424,claudication,claudicação
+http://purl.obolibrary.org/obo/SYMP_0000790,multiple sites pelvic swelling,inchaço pélvico em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000643,respiratory failure,Parada respiratória
+http://purl.obolibrary.org/obo/SYMP_0000029,obsolete feather loss,perda de penas obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000428,hypoventilation,hipoventilação
+http://purl.obolibrary.org/obo/SYMP_0000538,edema,edema
+http://purl.obolibrary.org/obo/SYMP_0000184,change in skin color,mudança na cor da pele
+http://purl.obolibrary.org/obo/SYMP_0000294,hemolysis,hemólise
+http://purl.obolibrary.org/obo/SYMP_0000781,periumbilic pelvic lump,caroço pélvico periumbilic
+http://purl.obolibrary.org/obo/SYMP_0000891,musculoskeletal system symptom,sintoma do sistema musculoesquelético
+http://purl.obolibrary.org/obo/SYMP_0000617,torticollis,torcicolo
+http://purl.obolibrary.org/obo/SYMP_0000634,leukocytosis,leucocitose
+http://purl.obolibrary.org/obo/SYMP_0000037,obsolete catarrhal enteritis,enterite catarral obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000507,head swelling,inchaço da cabeça
+http://purl.obolibrary.org/obo/SYMP_0000524,polyphagia,polifagia
+http://purl.obolibrary.org/obo/SYMP_0000198,miscarriage,aborto espontâneo
+http://purl.obolibrary.org/obo/SYMP_0000300,hyperesthesia,hiperestesia
+http://purl.obolibrary.org/obo/SYMP_0019179,lightheadedness,tontura
+http://purl.obolibrary.org/obo/SYMP_0000267,generalized seizure,convulsão generalizada
+http://purl.obolibrary.org/obo/SYMP_0000394,muscle twitching,Espamos musculares
+http://purl.obolibrary.org/obo/SYMP_0000377,mastitis,mastite
+http://purl.obolibrary.org/obo/SYMP_0000864,lesions in oropharynx,lesões na orofaringe
+http://purl.obolibrary.org/obo/SYMP_0000881,mild fever,febre baixa
+http://purl.obolibrary.org/obo/SYMP_0000060,ill-thrift,pouca economia
+http://purl.obolibrary.org/obo/SYMP_0019169,arthritis,artrite
+http://purl.obolibrary.org/obo/SYMP_0000298,hoarse voice,voz rouca
+http://purl.obolibrary.org/obo/SYMP_0000102,peritonitis,peritonite
+http://purl.obolibrary.org/obo/SYMP_0000878,transient fever,febre transitória
+http://purl.obolibrary.org/obo/SYMP_0000785,left upper quadrant pelvic mass,massa pélvica no quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000768,testicular pain,dor testicular
+http://purl.obolibrary.org/obo/SYMP_0000895,anaphylactic shock,choque anafilático
+http://purl.obolibrary.org/obo/SYMP_0000188,abdominal discomfort,desconforto abdominal
+http://purl.obolibrary.org/obo/SYMP_0000791,generalized pelvic swelling,edema pélvico generalizado
+http://purl.obolibrary.org/obo/SYMP_0000661,recumbency,decúbito
+http://purl.obolibrary.org/obo/SYMP_0000644,ruffled feather,pena de babado
+http://purl.obolibrary.org/obo/SYMP_0000078,loose droppings,excrementos soltos
+http://purl.obolibrary.org/obo/SYMP_0000438,toothache,dor de dente
+http://purl.obolibrary.org/obo/SYMP_0000455,abnormal weight gain,ganho de peso anormal
+http://purl.obolibrary.org/obo/SYMP_0000548,right lower quadrant abdominal swelling,edema abdominal no quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000565,polyuria,poliúria
+http://purl.obolibrary.org/obo/SYMP_0000658,extraocular muscles paralysis,paralisia dos músculos extraoculares
+http://purl.obolibrary.org/obo/SYMP_0000675,acute diarrhea,diarréia aguda
+http://purl.obolibrary.org/obo/SYMP_0000648,tenesmus,tenesmo
+http://purl.obolibrary.org/obo/SYMP_0000199,spontaneous abortion,aborto espontâneo
+http://purl.obolibrary.org/obo/SYMP_0000069,laryngotracheitis,laringotraqueíte
+http://purl.obolibrary.org/obo/SYMP_0000446,bloodshot eye,olho injetado de sangue
+http://purl.obolibrary.org/obo/SYMP_0000429,bradypnea,bradipnéia
+http://purl.obolibrary.org/obo/SYMP_0000556,localized superficial lump,caroço superficial localizado
+http://purl.obolibrary.org/obo/SYMP_0000539,jaundice,icterícia
+http://purl.obolibrary.org/obo/SYMP_0000112,tracheitis,traqueíte
+http://purl.obolibrary.org/obo/SYMP_0000222,limb weakness,fraqueza dos membros
+http://purl.obolibrary.org/obo/SYMP_0000332,muscle soreness,dor muscular
+http://purl.obolibrary.org/obo/SYMP_0000795,periumbilic pelvic swelling,edema pélvico periumbilical
+http://purl.obolibrary.org/obo/SYMP_0000778,left upper quadrant pelvic lump,caroço pélvico no quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000888,continuous fever,febre contínua
+http://purl.obolibrary.org/obo/SYMP_0000103,persistent lymphocytosis,linfocitose persistente
+http://purl.obolibrary.org/obo/SYMP_0000120,retinal inflammation,inflamação da retina
+http://purl.obolibrary.org/obo/SYMP_0000700,diminished spontaneous movement,movimento espontâneo diminuído
+http://purl.obolibrary.org/obo/SYMP_0000189,postural reaction,reação postural
+http://purl.obolibrary.org/obo/SYMP_0000299,hyperemia,hiperemia
+http://purl.obolibrary.org/obo/SYMP_0000075,lethargy,letargia
+http://purl.obolibrary.org/obo/SYMP_0000092,skin lesion,lesão na pele
+http://purl.obolibrary.org/obo/SYMP_0000769,vascular alteration,alteração vascular
+http://purl.obolibrary.org/obo/SYMP_0000786,generalized pelvic mass,massa pélvica generalizada
+http://purl.obolibrary.org/obo/SYMP_0000896,exophthalmos,exoftalmia
+http://purl.obolibrary.org/obo/SYMP_0000879,low-grade fever,febre baixa
+http://purl.obolibrary.org/obo/SYMP_0000452,abnormal sputum,expectoração anormal
+http://purl.obolibrary.org/obo/SYMP_0000562,right upper quadrant abdominal swelling,edema abdominal no quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000672,abscess,abscesso
+http://purl.obolibrary.org/obo/SYMP_0000419,miosis,miose
+http://purl.obolibrary.org/obo/SYMP_0000529,tachycardia,taquicardia
+http://purl.obolibrary.org/obo/SYMP_0000639,rectorrhagia,rectorragia
+http://purl.obolibrary.org/obo/SYMP_0000212,eye strain,tensão ocular
+http://purl.obolibrary.org/obo/SYMP_0000305,impaired gag reflex,reflexo de vômito prejudicado
+http://purl.obolibrary.org/obo/SYMP_0000322,low birth weight,baixo peso de nascimento
+http://purl.obolibrary.org/obo/SYMP_0000437,earache,dor de ouvido
+http://purl.obolibrary.org/obo/SYMP_0000800,left upper quadrant abdominal mass,massa abdominal no quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000289,eczema,eczema
+http://purl.obolibrary.org/obo/SYMP_0000399,vertigo,vertigem
+http://purl.obolibrary.org/obo/SYMP_0000203,obsolete acute respiratory distress,dificuldade respiratória aguda obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000313,joint inflammation,inflamação das articulações
+http://purl.obolibrary.org/obo/SYMP_0000886,hyperpyrexia,hiperpirexia
+http://purl.obolibrary.org/obo/SYMP_0000869,nasal congestion,congestão nasal
+http://purl.obolibrary.org/obo/SYMP_0000065,joint swelling,inchaço nas articulaçoes
+http://purl.obolibrary.org/obo/SYMP_0000082,lesions in lung,lesões no pulmão
+http://purl.obolibrary.org/obo/SYMP_0000662,shakes,sacode
+http://purl.obolibrary.org/obo/SYMP_0000552,meningismus,meningismo
+http://purl.obolibrary.org/obo/SYMP_0000197,abortion,aborto
+http://purl.obolibrary.org/obo/SYMP_0000777,left lower quadrant pelvic lump,caroço pélvico no quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000794,left upper quadrant pelvic swelling,edema pélvico do quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000443,shoulder pain,dor no ombro
+http://purl.obolibrary.org/obo/SYMP_0000460,hepatomegaly,hepatomegalia
+http://purl.obolibrary.org/obo/SYMP_0000570,diarrhea,diarréia
+http://purl.obolibrary.org/obo/SYMP_0000130,severe headache,dor de cabeça severa
+http://purl.obolibrary.org/obo/SYMP_0000113,proliferative tracheitis,traqueíte proliferativa
+http://purl.obolibrary.org/obo/SYMP_0000223,arm weakness,fraqueza do braço
+http://purl.obolibrary.org/obo/SYMP_0000240,corneal opacity,opacidade da córnea
+http://purl.obolibrary.org/obo/SYMP_0000333,muscle tenderness,sensibilidade muscular
+http://purl.obolibrary.org/obo/SYMP_0000350,parotid abscess,abscesso parotídeo
+http://purl.obolibrary.org/obo/SYMP_0000710,head pressing,cabeça pressionando
+http://purl.obolibrary.org/obo/SYMP_0000820,mass in chest,massa no peito
+http://purl.obolibrary.org/obo/SYMP_0000796,right lower quadrant pelvic swelling,edema pélvico do quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000649,terminal ileitis,ileíte terminal
+http://purl.obolibrary.org/obo/SYMP_0000666,abnormal behavior,Comportamento anormal
+http://purl.obolibrary.org/obo/SYMP_0000087,massive hepatic necrosis,necrose hepática maciça
+http://purl.obolibrary.org/obo/SYMP_0000464,lack of expected normal physiological development in childhood,falta de desenvolvimento fisiológico normal esperado na infância
+http://purl.obolibrary.org/obo/SYMP_0000574,aphonia,afonia
+http://purl.obolibrary.org/obo/SYMP_0000447,bloody sputum,expectoração com sangue
+http://purl.obolibrary.org/obo/SYMP_0000557,urinary retention,retenção urinária
+http://purl.obolibrary.org/obo/SYMP_0000684,bifrontal headache,dor de cabeça bifrontal
+http://purl.obolibrary.org/obo/SYMP_0000213,agraphia,agrafia
+http://purl.obolibrary.org/obo/SYMP_0000230,body ache,dor corporal
+http://purl.obolibrary.org/obo/SYMP_0000323,melena,melena
+http://purl.obolibrary.org/obo/SYMP_0000340,limb edema,edema de membro
+http://purl.obolibrary.org/obo/SYMP_0000810,epigastric abdominal lump,caroço abdominal epigástrico
+http://purl.obolibrary.org/obo/SYMP_0000104,petechial hemorrhages,hemorragias petequiais
+http://purl.obolibrary.org/obo/SYMP_0000121,rhinitis,rinite
+http://purl.obolibrary.org/obo/SYMP_0000231,bradycardia,bradicardia
+http://purl.obolibrary.org/obo/SYMP_0000701,nasal discharge,descarga nasal
+http://purl.obolibrary.org/obo/SYMP_0000787,periumbilic pelvic mass,massa pélvica periumbilica
+http://purl.obolibrary.org/obo/SYMP_0000897,ventricular bradycardia,bradicardia ventricular
+http://purl.obolibrary.org/obo/SYMP_0000093,muscle cramp,cãibra muscular
+http://purl.obolibrary.org/obo/SYMP_0000657,ischemic necrosis of jejunum,necrose isquêmica do jejuno
+http://purl.obolibrary.org/obo/SYMP_0000547,right upper quadrant abdominal pain,dor abdominal no quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000470,left upper quadrant abdominal rigidity,rigidez abdominal do quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000580,dysfunctions associated with sleep stages,disfunções associadas aos estágios do sono
+http://purl.obolibrary.org/obo/SYMP_0000690,cranial nerve palsies,paralisia dos nervos cranianos
+http://purl.obolibrary.org/obo/SYMP_0000108,portal hepatitis,hepatite portal
+http://purl.obolibrary.org/obo/SYMP_0000461,abdominal symptom,sintoma abdominal
+http://purl.obolibrary.org/obo/SYMP_0000571,insomnia,insônia
+http://purl.obolibrary.org/obo/SYMP_0000314,keratitis,ceratite
+http://purl.obolibrary.org/obo/SYMP_0000111,proliferative skin lesions,lesões proliferativas de pele
+http://purl.obolibrary.org/obo/SYMP_0000204,obsolete acute suppurative lesions,lesões supurativas agudas obsoletas
+http://purl.obolibrary.org/obo/SYMP_0000221,absence of knee jerk reflex,ausência de reflexo reflexo do joelho
+http://purl.obolibrary.org/obo/SYMP_0000331,muscles ache,músculos doem
+http://purl.obolibrary.org/obo/SYMP_0000801,left lower quadrant abdominal mass,massa abdominal no quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000083,lymphangitis,linfangite
+http://purl.obolibrary.org/obo/SYMP_0000887,Pel-Epstein fever,Febre Pel-Epstein
+http://purl.obolibrary.org/obo/SYMP_0000553,neurologic neglect syndrome,síndrome de negligência neurológica
+http://purl.obolibrary.org/obo/SYMP_0000680,acute weight loss,perda de peso aguda
+http://purl.obolibrary.org/obo/SYMP_0000208,anemia,anemia
+http://purl.obolibrary.org/obo/SYMP_0000318,loss of balance,perda de equilíbrio
+http://purl.obolibrary.org/obo/SYMP_0000091,mild encephalitis,encefalite leve
+http://purl.obolibrary.org/obo/SYMP_0000074,lesions in swim bladder,lesões na bexiga natatória
+http://purl.obolibrary.org/obo/SYMP_0000805,periumbilic abdominal mass,massa abdominal periumbilica
+http://purl.obolibrary.org/obo/SYMP_0000451,septic shock,choque séptico
+http://purl.obolibrary.org/obo/SYMP_0000561,multiple sites abdominal pain,dores abdominais em vários locais
+http://purl.obolibrary.org/obo/SYMP_0000671,sudden onset of fever,início repentino de febre
+http://purl.obolibrary.org/obo/SYMP_0019143,coagulopathy,coagulopatia
+http://purl.obolibrary.org/obo/SYMP_0000304,impaired coordination,coordenação prejudicada
+http://purl.obolibrary.org/obo/SYMP_0000448,epistaxis,epistaxe
+http://purl.obolibrary.org/obo/SYMP_0000465,failure to thrive,fracasso para prosperar
+http://purl.obolibrary.org/obo/SYMP_0000135,skin papules,pápulas da pele
+http://purl.obolibrary.org/obo/SYMP_0000118,rales,estertores
+http://purl.obolibrary.org/obo/SYMP_0000245,decreased appetite,apetite diminuído
+http://purl.obolibrary.org/obo/SYMP_0000228,hemorrhagic diarrhea,diarreia hemorrágica
+http://purl.obolibrary.org/obo/SYMP_0000338,nystagmus,nistagmo
+http://purl.obolibrary.org/obo/SYMP_0000355,poor feeding,má alimentação
+http://purl.obolibrary.org/obo/SYMP_0000732,sudden ataxis,ataxis repentino
+http://purl.obolibrary.org/obo/SYMP_0000715,skin desquamation,descamação da pele
+http://purl.obolibrary.org/obo/SYMP_0000842,active hyperemia,hiperemia ativa
+http://purl.obolibrary.org/obo/SYMP_0000825,paroxysmal tachycardia,taquicardia paroxística
+http://purl.obolibrary.org/obo/SYMP_0000214,anomia,anomia
+http://purl.obolibrary.org/obo/SYMP_0000341,ophthalmoplegia,oftalmoplegia
+http://purl.obolibrary.org/obo/SYMP_0000324,bronchitis,bronquite
+http://purl.obolibrary.org/obo/SYMP_0000811,left upper quadrant abdominal lump,protuberância abdominal no quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000218,poor enunciation,enunciação pobre
+http://purl.obolibrary.org/obo/SYMP_0000235,colic,cólica
+http://purl.obolibrary.org/obo/SYMP_0000345,panting respiration,respiração ofegante
+http://purl.obolibrary.org/obo/SYMP_0000328,mild tetanic convulsion,convulsão tetânica leve
+http://purl.obolibrary.org/obo/SYMP_0000832,neuropathic pain,dor neuropática
+http://purl.obolibrary.org/obo/SYMP_0000815,left lower quadrant abdominal lump,protuberância abdominal no quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000705,expressive aphasia,afasia expressiva
+http://purl.obolibrary.org/obo/SYMP_0000084,lymphoblastoma,linfoblastoma
+http://purl.obolibrary.org/obo/SYMP_0000681,aggressive behavior,comportamento agressivo
+http://purl.obolibrary.org/obo/SYMP_0000109,mouth papules,pápulas da boca
+http://purl.obolibrary.org/obo/SYMP_0000126,self-limiting liver inflammation,inflamação autolimitada do fígado
+http://purl.obolibrary.org/obo/SYMP_0019153,dyspnea,dispneia
+http://purl.obolibrary.org/obo/SYMP_0019170,osteomyelitis,osteomielite
+http://purl.obolibrary.org/obo/SYMP_0000706,facial weakness,fraqueza facial
+http://purl.obolibrary.org/obo/SYMP_0000723,multiple abscesses,abcessos múltiplos
+http://purl.obolibrary.org/obo/SYMP_0000098,nephritis,nefrite
+http://purl.obolibrary.org/obo/SYMP_0000585,sleep related movement disorder,distúrbio de movimento relacionado ao sono
+http://purl.obolibrary.org/obo/SYMP_0000695,decreased milk production,diminuição da produção de leite
+http://purl.obolibrary.org/obo/SYMP_0000475,underweight,abaixo do peso
+http://purl.obolibrary.org/obo/SYMP_0000492,urinary incontinence,incontinencia urinaria
+http://purl.obolibrary.org/obo/SYMP_0019161,muscle pain,dor muscular
+http://purl.obolibrary.org/obo/SYMP_0019144,microangiopathy,microangiopatia
+http://purl.obolibrary.org/obo/SYMP_0000576,chest pain,dor no peito
+http://purl.obolibrary.org/obo/SYMP_0000593,gangrene,gangrena
+http://purl.obolibrary.org/obo/SYMP_0000466,delayed milestones,marcos atrasados
+http://purl.obolibrary.org/obo/SYMP_0000483,left lower quadrant abdominal tenderness,sensibilidade abdominal no quadrante inferior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000116,prostration,prostração
+http://purl.obolibrary.org/obo/SYMP_0000209,ischemia,isquemia
+http://purl.obolibrary.org/obo/SYMP_0000226,atrial fibrillation,fibrilação atrial
+http://purl.obolibrary.org/obo/SYMP_0000319,loss of tendon reflex,perda do reflexo do tendão
+http://purl.obolibrary.org/obo/SYMP_0000336,neurological dysfunction,disfunção neurológica
+http://purl.obolibrary.org/obo/SYMP_0000806,right lower quadrant abdominal mass,massa abdominal no quadrante inferior direito
+http://purl.obolibrary.org/obo/SYMP_0000823,sinus bradycardia,bradicardia sinusal
+http://purl.obolibrary.org/obo/SYMP_0000002,abdominal distention,distensão abdominal
+http://purl.obolibrary.org/obo/SYMP_0000713,inability to lie flat,incapacidade de ficar deitado
+http://purl.obolibrary.org/obo/SYMP_0000088,massive lymphadenopathy,linfadenopatia maciça
+http://purl.obolibrary.org/obo/SYMP_0000558,incomplete bladder emptying,esvaziamento incompleto da bexiga
+http://purl.obolibrary.org/obo/SYMP_0000575,precordial pain,dor precordial
+http://purl.obolibrary.org/obo/SYMP_0000685,brain cyst,cisto cerebral
+http://purl.obolibrary.org/obo/SYMP_0000107,pleural effusion,derrame pleural
+http://purl.obolibrary.org/obo/SYMP_0000217,inability to form words,incapacidade de formar palavras
+http://purl.obolibrary.org/obo/SYMP_0000140,obsolete spastic paralysis,paralisia espástica obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000814,generalized abdominal lump,caroço abdominal generalizado
+http://purl.obolibrary.org/obo/SYMP_0000010,obsolete bloody diarrhea,diarréia sangrenta obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000704,dysphonia,disfonia
+http://purl.obolibrary.org/obo/SYMP_0000079,coordination symptom,sintoma de coordenação
+http://purl.obolibrary.org/obo/SYMP_0000096,obsolete nasal discharge,secreção nasal obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000456,left upper quadrant abdominal pain,dor abdominal no quadrante superior esquerdo
+http://purl.obolibrary.org/obo/SYMP_0000439,heartburn,azia
+http://purl.obolibrary.org/obo/SYMP_0000566,sleep disturbance,distúrbios de sono
+http://purl.obolibrary.org/obo/SYMP_0000693,decreased facial sensation,sensação facial diminuída
+http://purl.obolibrary.org/obo/SYMP_0000676,acute enteritis,enterite aguda
+http://purl.obolibrary.org/obo/SYMP_0000549,generalized abdominal swelling,inchaço abdominal generalizado
+http://purl.obolibrary.org/obo/SYMP_0000659,pareses,pareses
+http://purl.obolibrary.org/obo/SYMP_0000122,salivary gland swelling,inchaço da glândula salivar
+http://purl.obolibrary.org/obo/SYMP_0000232,bronchiolitis,bronquiolite
+http://purl.obolibrary.org/obo/SYMP_0000342,slurred speech,fala arrastada
+http://purl.obolibrary.org/obo/SYMP_0000309,loss of appetite,perda de apetite
+http://purl.obolibrary.org/obo/SYMP_0000127,severe backache,forte dor nas costas
+http://purl.obolibrary.org/obo/SYMP_0000144,bronchopneumonia,broncopneumonia
+http://purl.obolibrary.org/obo/SYMP_0000237,congestion,congestionamento
+http://purl.obolibrary.org/obo/SYMP_0000254,dilated pupil,pupila dilatada
+http://purl.obolibrary.org/obo/SYMP_0000724,multiple organ failure,falência de múltiplos órgãos
+http://purl.obolibrary.org/obo/SYMP_0000741,nasal bleeding,sangramento nasal
+http://purl.obolibrary.org/obo/SYMP_0000493,dysphagia,disfagia
+http://purl.obolibrary.org/obo/SYMP_0000219,receptive aphasia,afasia receptiva
+http://purl.obolibrary.org/obo/SYMP_0000236,colicky pain,dor em cólica
+http://purl.obolibrary.org/obo/SYMP_0000346,papule,pápula
+http://purl.obolibrary.org/obo/SYMP_0000329,motor weakness,fraqueza motora
+http://purl.obolibrary.org/obo/SYMP_0019139,hemic system symptom,sintoma de sistema hemico
+http://purl.obolibrary.org/obo/SYMP_0000012,obsolete blurred vision,visão turva obsoleta
+http://purl.obolibrary.org/obo/SYMP_0000816,dysfunctions associated with arousal from sleep,disfunções associadas ao despertar do sono
+http://purl.obolibrary.org/obo/SYMP_0000833,visceral pain,dor visceral
+http://purl.obolibrary.org/obo/SYMP_0019154,hemorrhagic mediastinitis,mediastinite hemorrágica
+http://purl.obolibrary.org/obo/SYMP_0019171,spondylitis,espondilite
+http://purl.obolibrary.org/obo/SYMP_0000117,pustular skin lesions,lesões pustulosas da pele
+http://purl.obolibrary.org/obo/SYMP_0000227,blood vessel infection,infecção do vaso sanguíneo
+http://purl.obolibrary.org/obo/SYMP_0000337,night sweats,suor noturno
+http://purl.obolibrary.org/obo/SYMP_0000020,dehydration,desidratação
+http://purl.obolibrary.org/obo/SYMP_0000003,obsolete acute enteritis in newborns,enterite aguda obsoleta em recém-nascidos
+http://purl.obolibrary.org/obo/SYMP_0000714,intraretinal hemorrhage,hemorragia intra-retiniana
+http://purl.obolibrary.org/obo/SYMP_0000824,junctional tachycardia,taquicardia juncional
+http://purl.obolibrary.org/obo/SYMP_0000807,right upper quadrant abdominal mass,massa abdominal no quadrante superior direito
+http://purl.obolibrary.org/obo/SYMP_0000089,meningoencephalitis,meningoencefalite
+http://purl.obolibrary.org/obo/SYMP_0000600,apnea,apnéia
+http://purl.obolibrary.org/obo/SYMP_0019145,vomiting,vomitando
+http://purl.obolibrary.org/obo/SYMP_0019162,muscle tightness,tensão muscular
+http://purl.obolibrary.org/obo/SYMP_0000686,chronic cough,Tosse crônica
+http://purl.obolibrary.org/obo/SYMP_0000728,partial hind limb paralysis,paralisia parcial do membro posterior
+http://purl.obolibrary.org/obo/SYMP_0000484,abdominal tenderness,sensibilidade abdominal
+http://purl.obolibrary.org/obo/SYMP_0000594,abnormal involuntary movement,movimento involuntário anormal
+http://purl.obolibrary.org/obo/SYMP_0000327,tetanic convulsion,convulsão tetânica
+http://purl.obolibrary.org/obo/SYMP_0000250,decreased flexor withdrawal reflex,diminuição do reflexo de retirada dos flexores
+http://purl.obolibrary.org/obo/SYMP_0000360,emaciation,emagrecimento
+http://purl.obolibrary.org/obo/SYMP_0000488,skin and integumentary tissue symptom,sintoma de pele e tecido tegumentar
+http://purl.obolibrary.org/obo/SYMP_0000598,respiratory abnormality,anormalidade respiratória
+http://purl.obolibrary.org/obo/SYMP_0019152,diaphoresis,diaforese
+http://purl.obolibrary.org/obo/SYMP_0000011,obsolete bloody exudate,Exsudato sangrento obsoleto
+http://purl.obolibrary.org/obo/SYMP_0000097,neck swelling,inchaço do pescoço
+http://purl.obolibrary.org/obo/SYMP_0000584,disruptions of 24-hour sleep-wake cycle,interrupções do ciclo vigília-sono de 24 horas
+http://purl.obolibrary.org/obo/SYMP_0000457,abdominal pain,dor abdominal
+http://purl.obolibrary.org/obo/SYMP_0000567,general symptom,sintoma geral
+http://purl.obolibrary.org/obo/SYMP_0000694,decreased jaw tone,diminuição do tom da mandíbula
+http://purl.obolibrary.org/obo/SYMP_0000677,acute gastroenteritis,gastroenterite aguda
+http://purl.obolibrary.org/obo/SYMP_0000474,abnormal loss of weight and underweight,perda anormal de peso e baixo peso
+http://purl.obolibrary.org/obo/SYMP_0000162,tremor,tremor
+http://purl.obolibrary.org/obo/SYMP_0000145,splitting of tissues,divisão de tecidos
+http://purl.obolibrary.org/obo/SYMP_0000241,corneal ulcers,úlceras de córnea
+http://purl.obolibrary.org/obo/SYMP_0000351,partial paralysis of the limbs,paralisia parcial dos membros
+http://purl.obolibrary.org/obo/SYMP_0000131,severe joint pain,forte dor nas articulações
+http://purl.obolibrary.org/obo/SYMP_0000001,abdominal cramp,cãibra abdominal
