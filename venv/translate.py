@@ -1,21 +1,32 @@
-import pandas as pd
+import csv
 from googletrans import Translator
 
 headers = ['Preferred Label', 'Synonyms', 'Definitions', 'Obsolete', 'CUI', 'Semantic Types', 'Parents', 'Preferred Label pt', 'Synonyms pt', 'Definitions pt', 'Obsolete pt', 'CUI pt', 'Semantic Types pt', 'Parents pt']
-data = pd.read_csv('./data.csv')
 translator = Translator()
-# Init empty dataframe with much rows as `data`
-df = pd.DataFrame(index=range(0,len(data)), columns=headers)
 
 def translate_row(row):
     ''' Translate elements A and B within `row`. '''
-    a = translator.translate(row[0], dest='pt')
-    b = translator.translate(row[1], dest='pt')
-    return pd.Series([a.origin, b.origin, a.text, b.text])
+    origins, translations = [], []
+    print(row)
+    for elem in row:
+    	if elem.strip() == '':
+    		origins.append('')
+    		translations.append('')
+    	else:
+	    	a = translator.translate(str(elem), src='en', dest='pt')
+	    	origins.append(a.origin)
+	    	translations.append(a.text)
+    return origins + translations
 
+if __name__ == '__main__':
+	translations = []
+	with open('data.csv') as f:
+		reader = csv.reader(f, delimiter=',', quotechar='|')
+		for row in reader:
+			translations.append(translate_row(row))
 
-for i, row in enumerate(data.values):
-    # Fill empty dataframe with given serie.
-    df.loc[i] = translate_row(row)
-
-print(df)
+	with open('translations.csv', 'w') as f:
+		writer = csv.writer(f, delimiter=';', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+		writer.writerow(headers)
+		for row in translations:
+			writer.writerow(row)
